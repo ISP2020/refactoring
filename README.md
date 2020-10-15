@@ -172,7 +172,7 @@ An "enum" is a type with a fixed set of values, which are static instances of th
 
 To define an enum for pizza sizes:
 ```python
-from enum import Enum
+from pizza_size import Enum
 
 class PizzaSize(Enum):
     # Enum members written as: name = value

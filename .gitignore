@@ -12,7 +12,6 @@ env/
 local_settings.py
 # Misc stuff
 pizzatypes.txt
-pizzasize.py
 
 # code coverage
 .coverage
